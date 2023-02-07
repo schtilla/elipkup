@@ -8,10 +8,6 @@ Licenc: GNU GPL */
 
 .fejlec{
     margin: 10px;
-    color: red;
+    color: gray;
     text-decoration: underline;
-}
-
-h2{
-    font-size: 12px;
 }
